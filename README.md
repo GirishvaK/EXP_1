@@ -291,6 +291,9 @@ footer {
 ```
 
 ## OUTPUT
+<img width="1757" height="672" alt="633056105-3b62a84c-3701-4368-9980-ae1d43b56175" src="https://github.com/user-attachments/assets/8ea15fec-7399-43f7-a36f-3c9cd4fc9ecf" />
+<img width="1787" height="757" alt="633055841-716e65f3-3d89-4ab2-b91a-380c9af26237" src="https://github.com/user-attachments/assets/10e9f3b4-fa93-4d6c-929b-3caab85f081e" />
+<img width="1756" height="896" alt="image" src="https://github.com/user-attachments/assets/f70aeb29-00fa-4d38-a293-f661db81288a" />
 
 
 ## RESULT
