@@ -495,7 +495,6 @@ export default function Home() {
 
 <img width="1757" height="827" alt="image" src="https://github.com/user-attachments/assets/95bfffeb-159e-478f-b69c-9fa336b07677" />
 
-<img width="1710" height="937" alt="image" src="https://github.com/user-attachments/assets/d4298ead-bcd5-499a-81b0-f1d4ab8822fc" />
 
 
 ## RESULT
